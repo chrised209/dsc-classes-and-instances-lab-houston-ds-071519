@@ -1,2 +1,2 @@
 class Ride:
-  pass
+    pass
